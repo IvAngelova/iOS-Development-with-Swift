@@ -26,7 +26,6 @@ print(surfaceCircle)
 let perimeterCircle = calculateCirclePerimeterWith(radius: 4)
 print(perimeterCircle)
 
-
 //Task 3
 struct Car {
     let make: String
