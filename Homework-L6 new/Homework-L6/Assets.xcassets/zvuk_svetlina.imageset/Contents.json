@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "zvuk_svetlina.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
